@@ -1,0 +1,6 @@
+Django~=1.11
+djangorestframework
+markdown #To provide browsable API support
+django-filter # Filtering support
+requests # For testing the framework using a script
+beautifulsoup4 #For webscraping
